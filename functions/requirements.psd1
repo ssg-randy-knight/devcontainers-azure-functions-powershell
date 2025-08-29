@@ -2,5 +2,8 @@
 # See https://aka.ms/functionsmanageddependency for additional information.
 #
 @{
-    'AzTable'               = '2.1.0'
+    ConnectWiseManageAPI = "0.*"
+    JoinModule           = "3.*"
+    dbatools             = "2.*"
+    'AzTable'            = '2.1.0'
 }
